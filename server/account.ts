@@ -6,9 +6,19 @@ import { isAuthenticated } from "./auth";
 import { hashPassword } from "./auth";
 import Stripe from "stripe";
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY || "", {
-  apiVersion: "2024-06-20" as any,
-});
+// CLONE — construct Stripe lazily so a missing STRIPE_SECRET_KEY does not crash
+// the server at import time (the throwaway kitchen clone has no Stripe key and
+// never hits the billing-portal route below). Restore the eager top-level
+// client if this is ever productized with Stripe configured.
+let _stripe: Stripe | null = null;
+function getStripe(): Stripe {
+  if (!_stripe) {
+    _stripe = new Stripe(process.env.STRIPE_SECRET_KEY || "", {
+      apiVersion: "2024-06-20" as any,
+    });
+  }
+  return _stripe;
+}
 
 export function registerAccountRoutes(app: Express): void {
 
@@ -205,7 +215,7 @@ export function registerAccountRoutes(app: Express): void {
       if (!user?.stripeCustomerId) {
         return res.status(400).json({ message: "No billing account found. Make a purchase first." });
       }
-      const portalSession = await stripe.billingPortal.sessions.create({
+      const portalSession = await getStripe().billingPortal.sessions.create({
         customer: user.stripeCustomerId,
         return_url: `https://${req.get("host")}/account`,
       });
