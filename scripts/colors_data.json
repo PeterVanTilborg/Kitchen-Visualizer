@@ -1,0 +1,2530 @@
+[
+  {
+    "name": "Aluminum",
+    "fullName": "BR120 Brushed Aluminum",
+    "hexColor": "#939391",
+    "imageUrl": "/colors/3M 2080/Brushed/BR120 Brushed Aluminum.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Brushed"
+  },
+  {
+    "name": "Steel",
+    "fullName": "BR201 Brushed Steel",
+    "hexColor": "#51555b",
+    "imageUrl": "/colors/3M 2080/Brushed/BR201 Brushed Steel.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Brushed"
+  },
+  {
+    "name": "Black Metallic",
+    "fullName": "BR212 Brushed Black Metallic",
+    "hexColor": "#191b1a",
+    "imageUrl": "/colors/3M 2080/Brushed/BR212 Brushed Black Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Brushed"
+  },
+  {
+    "name": "Titanium",
+    "fullName": "BR230 Brushed Titanium",
+    "hexColor": "#797a75",
+    "imageUrl": "/colors/3M 2080/Brushed/BR230 Brushed Titanium.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Brushed"
+  },
+  {
+    "name": "Black",
+    "fullName": "CFS12 Carbon Fiber Black",
+    "hexColor": "#3f4143",
+    "imageUrl": "/colors/3M 2080/Carbon Fiber/CFS12 Carbon Fiber Black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Carbon Fiber"
+  },
+  {
+    "name": "Anthracite",
+    "fullName": "CFS201 Carbon Fiber Anthracite",
+    "hexColor": "#65696f",
+    "imageUrl": "/colors/3M 2080/Carbon Fiber/CFS201 Carbon Fiber Anthracite.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Carbon Fiber"
+  },
+  {
+    "name": "Black",
+    "fullName": "DM12 Dead Matte Black",
+    "hexColor": "#2f3130",
+    "imageUrl": "/colors/3M 2080/Matte/DM12 Dead Matte Black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Boat Blue",
+    "fullName": "G127 Gloss Boat Blue",
+    "hexColor": "#060a15",
+    "imageUrl": "/colors/3M 2080/Gloss/G127 Gloss Boat Blue.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Light Green",
+    "fullName": "G16 Gloss Light Green",
+    "hexColor": "#498607",
+    "imageUrl": "/colors/3M 2080/Gloss/G16 Gloss Light Green.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Anthracite",
+    "fullName": "G201 Gloss Anthracite",
+    "hexColor": "#444748",
+    "imageUrl": "/colors/3M 2080/Gloss/G201 Gloss Anthracite.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Red Metallic",
+    "fullName": "G203 Gloss Red Metallic",
+    "hexColor": "#490107",
+    "imageUrl": "/colors/3M 2080/Gloss/G203 Gloss Red Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Charcoal Metallic",
+    "fullName": "G211 Gloss Charcoal Metallic",
+    "hexColor": "#514d49",
+    "imageUrl": "/colors/3M 2080/Gloss/G211 Gloss Charcoal Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Deep Blue Metallic",
+    "fullName": "G217 Gloss Deep Blue Metallic",
+    "hexColor": "#070c3c",
+    "imageUrl": "/colors/3M 2080/Gloss/G217 Gloss Deep Blue Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Blue Metallic",
+    "fullName": "G227 Gloss Blue Metallic",
+    "hexColor": "#092852",
+    "imageUrl": "/colors/3M 2080/Gloss/G227 Gloss Blue Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Deep Orange",
+    "fullName": "G24 Gloss Deep Orange",
+    "hexColor": "#913201",
+    "imageUrl": "/colors/3M 2080/Gloss/G24 Gloss Deep Orange.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Sunflower",
+    "fullName": "G25 Gloss Sunflower",
+    "hexColor": "#9f6c01",
+    "imageUrl": "/colors/3M 2080/Gloss/G25 Gloss Sunflower.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Sterling silver",
+    "fullName": "G251 Gloss Sterling silver",
+    "hexColor": "#5b5f5e",
+    "imageUrl": "/colors/3M 2080/Gloss/G251 Gloss Sterling silver.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Blue Fire",
+    "fullName": "G337 Gloss Blue Fire",
+    "hexColor": "#02207a",
+    "imageUrl": "/colors/3M 2080/Gloss/G337 Gloss Blue Fire.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Liquid Copper",
+    "fullName": "G344 Gloss Liquid Copper",
+    "hexColor": "#7d2f01",
+    "imageUrl": "/colors/3M 2080/Gloss/G344 Gloss Liquid Copper.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Fierce Fuschsia",
+    "fullName": "G348 Gloss Fierce Fuschsia",
+    "hexColor": "#410336",
+    "imageUrl": "/colors/3M 2080/Gloss/G348 Gloss Fierce Fuschsia.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Atomic Teal",
+    "fullName": "G356 Gloss Atomic Teal",
+    "hexColor": "#064873",
+    "imageUrl": "/colors/3M 2080/Gloss/G356 Gloss Atomic Teal.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Dragon fire Red",
+    "fullName": "G363 Gloss Dragon fire Red",
+    "hexColor": "#6c0609",
+    "imageUrl": "/colors/3M 2080/Gloss/G363 Gloss Dragon fire Red.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Fiery Orange",
+    "fullName": "G364 Gloss Fiery Orange",
+    "hexColor": "#6d0501",
+    "imageUrl": "/colors/3M 2080/Gloss/G364 Gloss Fiery Orange.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Cosmic Blue",
+    "fullName": "G377 Gloss Cosmic Blue",
+    "hexColor": "#060a62",
+    "imageUrl": "/colors/3M 2080/Gloss/G377 Gloss Cosmic Blue.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "gloss Kelly Green",
+    "fullName": "G46 gloss Kelly Green",
+    "hexColor": "#196e37",
+    "imageUrl": "/colors/3M 2080/Gloss/G46 gloss Kelly Green.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Intense Blue",
+    "fullName": "G47 Gloss Intense Blue",
+    "hexColor": "#052d7a",
+    "imageUrl": "/colors/3M 2080/Gloss/G47 Gloss Intense Blue.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Flame Red",
+    "fullName": "G53 Gloss Flame Red",
+    "hexColor": "#771514",
+    "imageUrl": "/colors/3M 2080/Gloss/G53 Gloss Flame Red.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Bright Orange",
+    "fullName": "G54 Gloss Bright Orange",
+    "hexColor": "#882d00",
+    "imageUrl": "/colors/3M 2080/Gloss/G54 Gloss Bright Orange.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Lucid Yellow",
+    "fullName": "G55 Gloss Lucid Yellow",
+    "hexColor": "#acaa01",
+    "imageUrl": "/colors/3M 2080/Gloss/G55 Gloss Lucid Yellow.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Light Ivory",
+    "fullName": "G79 Gloss Light Ivory",
+    "hexColor": "#908e79",
+    "imageUrl": "/colors/3M 2080/Gloss/G79 Gloss Light Ivory.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "White Gold Sparkle",
+    "fullName": "GP240 Gloss White Gold Sparkle",
+    "hexColor": "#c0c1bc",
+    "imageUrl": "/colors/3M 2080/Gloss/GP240 Gloss White Gold Sparkle.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Plume Explosion",
+    "fullName": "GP258 Gloss Plume Explosion",
+    "hexColor": "#170654",
+    "imageUrl": "/colors/3M 2080/Gloss/GP258 Gloss Plume Explosion.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Midnight Blue",
+    "fullName": "GP272 Gloss Midnight Blue",
+    "hexColor": "#05060a",
+    "imageUrl": "/colors/3M 2080/Gloss/GP272 Gloss Midnight Blue.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Flip Psychedelic",
+    "fullName": "GP281 Gloss Flip Psychedelic",
+    "hexColor": "#3b4548",
+    "imageUrl": "/colors/3M 2080/Gloss/GP281 Gloss Flip Psychedelic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Ember Black",
+    "fullName": "GP282 Gloss Ember Black",
+    "hexColor": "#323232",
+    "imageUrl": "/colors/3M 2080/Gloss/GP282 Gloss Ember Black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss White",
+    "fullName": "HG10 High Gloss White",
+    "hexColor": "#adafae",
+    "imageUrl": "/colors/3M 2080/Gloss/HG10 High Gloss White.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Black",
+    "fullName": "HG12 High Gloss Black",
+    "hexColor": "#252728",
+    "imageUrl": "/colors/3M 2080/Gloss/HG12 High Gloss Black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss White Aluminum",
+    "fullName": "HG120 High Gloss White Aluminum",
+    "hexColor": "#8f9290",
+    "imageUrl": "/colors/3M 2080/Gloss/HG120 High Gloss White Aluminum.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Hot Rot Red",
+    "fullName": "HG13 High Gloss Hot Rot Red",
+    "hexColor": "#8a010a",
+    "imageUrl": "/colors/3M 2080/Gloss/HG13 High Gloss Hot Rot Red.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Burnt Orange",
+    "fullName": "HG14 High Gloss Burnt Orange",
+    "hexColor": "#862401",
+    "imageUrl": "/colors/3M 2080/Gloss/HG14 High Gloss Burnt Orange.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Bright Yellow",
+    "fullName": "HG15 High Gloss Bright Yellow",
+    "hexColor": "#a18501",
+    "imageUrl": "/colors/3M 2080/Gloss/HG15 High Gloss Bright Yellow.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Black Metallic",
+    "fullName": "HG212 High Gloss Black Metallic",
+    "hexColor": "#313335",
+    "imageUrl": "/colors/3M 2080/Gloss/HG212 High Gloss Black Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Storm Grey",
+    "fullName": "HG31 High Gloss Storm Grey",
+    "hexColor": "#818380",
+    "imageUrl": "/colors/3M 2080/Gloss/HG31 High Gloss Storm Grey.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Green Envy",
+    "fullName": "HG336 High Gloss Green Envy",
+    "hexColor": "#0d681f",
+    "imageUrl": "/colors/3M 2080/Gloss/HG336 High Gloss Green Envy.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Mantis Green",
+    "fullName": "HG36 High Gloss Mantis Green",
+    "hexColor": "#30513e",
+    "imageUrl": "/colors/3M 2080/Gloss/HG36 High Gloss Mantis Green.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Blue Raspberry",
+    "fullName": "HG378 High Gloss Blue Raspberry",
+    "hexColor": "#0a0a64",
+    "imageUrl": "/colors/3M 2080/Gloss/HG378 High Gloss Blue Raspberry.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Nardo Grey",
+    "fullName": "HG61 High Gloss Nardo Grey",
+    "hexColor": "#525657",
+    "imageUrl": "/colors/3M 2080/Gloss/HG61 High Gloss Nardo Grey.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Ruby Rosso",
+    "fullName": "HG73 High Gloss Ruby Rosso",
+    "hexColor": "#460118",
+    "imageUrl": "/colors/3M 2080/Gloss/HG73 High Gloss Ruby Rosso.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Sky Blue",
+    "fullName": "HG77 High Gloss Sky Blue",
+    "hexColor": "#34779c",
+    "imageUrl": "/colors/3M 2080/Gloss/HG77 High Gloss Sky Blue.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Meteor Gray",
+    "fullName": "HG81 High Gloss Meteor Gray",
+    "hexColor": "#25292a",
+    "imageUrl": "/colors/3M 2080/Gloss/HG81 High Gloss Meteor Gray.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "High Gloss Flip Deep Space",
+    "fullName": "HGP278 High Gloss Flip Deep Space",
+    "hexColor": "#0c1923",
+    "imageUrl": "/colors/3M 2080/Gloss/HGP278 High Gloss Flip Deep Space.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "White",
+    "fullName": "M10 Matte White",
+    "hexColor": "#b6bbb7",
+    "imageUrl": "/colors/3M 2080/Matte/M10 Matte White.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Black",
+    "fullName": "M12 Matte Black",
+    "hexColor": "#343635",
+    "imageUrl": "/colors/3M 2080/Matte/M12 Matte Black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Red",
+    "fullName": "M13 Matte Red",
+    "hexColor": "#79060a",
+    "imageUrl": "/colors/3M 2080/Matte/M13 Matte Red.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Red Metallic",
+    "fullName": "M203 Matte Red Metallic",
+    "hexColor": "#6c232a",
+    "imageUrl": "/colors/3M 2080/Matte/M203 Matte Red Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Matt Pine Green Metallic",
+    "fullName": "M206 Matt Pine Green Metallic",
+    "hexColor": "#3b4a45",
+    "imageUrl": "/colors/3M 2080/Gloss/M206 Matt Pine Green Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Brown Metallic",
+    "fullName": "M209 Matte Brown Metallic",
+    "hexColor": "#30251b",
+    "imageUrl": "/colors/3M 2080/Matte/M209 Matte Brown Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Silver(1)",
+    "fullName": "M21 Matte Silver(1)",
+    "hexColor": "#4f5a6b",
+    "imageUrl": "/colors/3M 2080/Matte/M21 Matte Silver(1).jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Silver",
+    "fullName": "M21 Matte Silver",
+    "hexColor": "#6f7881",
+    "imageUrl": "/colors/3M 2080/Matte/M21 Matte Silver.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Charcoal Metallic",
+    "fullName": "M211 Matte Charcoal Metallic",
+    "hexColor": "#595855",
+    "imageUrl": "/colors/3M 2080/Matte/M211 Matte Charcoal Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Black Metallic",
+    "fullName": "M212 Matte Black Metallic",
+    "hexColor": "#313234",
+    "imageUrl": "/colors/3M 2080/Matte/M212 Matte Black Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Slate Blue Metallic",
+    "fullName": "M217 Matte Slate Blue Metallic",
+    "hexColor": "#233361",
+    "imageUrl": "/colors/3M 2080/Matte/M217 Matte Slate Blue Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Deep Black",
+    "fullName": "M22 Matte Deep Black",
+    "hexColor": "#2f3032",
+    "imageUrl": "/colors/3M 2080/Matte/M22 Matte Deep Black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Blue Metallic",
+    "fullName": "M227 Matte Blue Metallic",
+    "hexColor": "#184a80",
+    "imageUrl": "/colors/3M 2080/Matte/M227 Matte Blue Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Grey Aluminum",
+    "fullName": "M230 Matte Grey Aluminum",
+    "hexColor": "#6a6b65",
+    "imageUrl": "/colors/3M 2080/Matte/M230 Matte Grey Aluminum.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "military green",
+    "fullName": "M26 Matte military green",
+    "hexColor": "#414840",
+    "imageUrl": "/colors/3M 2080/Matte/M26 Matte military green.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Dark Grey",
+    "fullName": "M261 Matte Dark Grey",
+    "hexColor": "#46484a",
+    "imageUrl": "/colors/3M 2080/Matte/M261 Matte Dark Grey.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Indigo",
+    "fullName": "M27 Matte Indigo",
+    "hexColor": "#2f3646",
+    "imageUrl": "/colors/3M 2080/Matte/M27 Matte Indigo.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Matte"
+  },
+  {
+    "name": "Matrix Black",
+    "fullName": "MX12 Matrix Black",
+    "hexColor": "#383a38",
+    "imageUrl": "/colors/3M 2080/Gloss/MX12 Matrix Black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "White",
+    "fullName": "S10 Satin White",
+    "hexColor": "#b8bcb9",
+    "imageUrl": "/colors/3M 2080/Satin/S10 Satin White.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Black",
+    "fullName": "S12 Satin Black",
+    "hexColor": "#101115",
+    "imageUrl": "/colors/3M 2080/Satin/S12 Satin Black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "White Aluminum",
+    "fullName": "S120 Satin White Aluminum",
+    "hexColor": "#a3a7a7",
+    "imageUrl": "/colors/3M 2080/Satin/S120 Satin White Aluminum.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Apple Green",
+    "fullName": "S196 Satin Apple Green",
+    "hexColor": "#29800f",
+    "imageUrl": "/colors/3M 2080/Satin/S196 Satin Apple Green.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Frozen Berry Metallic",
+    "fullName": "S238 Satin Frozen Berry Metallic",
+    "hexColor": "#4c3c3c",
+    "imageUrl": "/colors/3M 2080/Satin/S238 Satin Frozen Berry Metallic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "satin dark gray",
+    "fullName": "S261 satin dark gray",
+    "hexColor": "#65696c",
+    "imageUrl": "/colors/3M 2080/Satin/S261 satin dark gray.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Thundercloud",
+    "fullName": "S271 Satin Thundercloud",
+    "hexColor": "#434e56",
+    "imageUrl": "/colors/3M 2080/Satin/S271 Satin Thundercloud.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Ocean Shimmer",
+    "fullName": "S327 Satin Ocean Shimmer",
+    "hexColor": "#115f84",
+    "imageUrl": "/colors/3M 2080/Satin/S327 Satin Ocean Shimmer.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Bitter Yellow",
+    "fullName": "S335 Satin Bitter Yellow",
+    "hexColor": "#716201",
+    "imageUrl": "/colors/3M 2080/Satin/S335 Satin Bitter Yellow.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Perfect Blue",
+    "fullName": "S347 Satin Perfect Blue",
+    "hexColor": "#09337a",
+    "imageUrl": "/colors/3M 2080/Satin/S347 Satin Perfect Blue.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "S363, Satin Smoldering red",
+    "fullName": "S363, Satin Smoldering red",
+    "hexColor": "#780c0f",
+    "imageUrl": "/colors/3M 2080/Satin/S363, Satin Smoldering red.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Sandstone",
+    "fullName": "S49 Satin Sandstone",
+    "hexColor": "#656455",
+    "imageUrl": "/colors/3M 2080/Satin/S49 Satin Sandstone.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Battleship Gray",
+    "fullName": "S51 Satin Battleship Gray",
+    "hexColor": "#656f71",
+    "imageUrl": "/colors/3M 2080/Satin/S51 Satin Battleship Gray.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Komodo Green",
+    "fullName": "S56 Satin Komodo Green",
+    "hexColor": "#5a664e",
+    "imageUrl": "/colors/3M 2080/Satin/S56 Satin Komodo Green.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Key West",
+    "fullName": "S57 Satin Key West",
+    "hexColor": "#66a0a0",
+    "imageUrl": "/colors/3M 2080/Satin/S57 Satin Key West.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Lunar Blue",
+    "fullName": "S87 Satin Lunar Blue",
+    "hexColor": "#434e56",
+    "imageUrl": "/colors/3M 2080/Satin/S87 Satin Lunar Blue.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Shadow Black",
+    "fullName": "SB12 Shadow Black",
+    "hexColor": "#2d2f2e",
+    "imageUrl": "/colors/3M 2080/Gloss/SB12 Shadow Black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "SP-273 Satin Vampire Red",
+    "fullName": "SP-273 Satin Vampire Red",
+    "hexColor": "#45070c",
+    "imageUrl": "/colors/3M 2080/Satin/SP-273 Satin Vampire Red.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Pearl White",
+    "fullName": "SP10 Satin Pearl White",
+    "hexColor": "#8e918a",
+    "imageUrl": "/colors/3M 2080/Satin/SP10 Satin Pearl White.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Flip Volcanic Flare",
+    "fullName": "SP236 Satin Flip Volcanic Flare",
+    "hexColor": "#281e1f",
+    "imageUrl": "/colors/3M 2080/Satin/SP236 Satin Flip Volcanic Flare.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Frozen Vanilla",
+    "fullName": "SP240 Satin Frozen Vanilla",
+    "hexColor": "#b9bbba",
+    "imageUrl": "/colors/3M 2080/Satin/SP240 Satin Frozen Vanilla.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "satin gold dust black",
+    "fullName": "SP242 satin gold dust black",
+    "hexColor": "#55534e",
+    "imageUrl": "/colors/3M 2080/Satin/SP242 satin gold dust black.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "Flip Ghost Pearl",
+    "fullName": "SP280 Satin Flip Ghost Pearl",
+    "hexColor": "#8e9290",
+    "imageUrl": "/colors/3M 2080/Satin/SP280 Satin Flip Ghost Pearl.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Satin"
+  },
+  {
+    "name": "set and flip psychedelic",
+    "fullName": "SP281 set and flip psychedelic",
+    "hexColor": "#434d51",
+    "imageUrl": "/colors/3M 2080/Gloss/SP281 set and flip psychedelic.jpg",
+    "manufacturer": "3M 2080",
+    "category": "Gloss"
+  },
+  {
+    "name": "Piano Black",
+    "fullName": "701 Gloss Piano Black",
+    "hexColor": "#030304",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/701 Gloss Piano Black.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Championship White",
+    "fullName": "702 Gloss Championship White",
+    "hexColor": "#94978e",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/702 Gloss Championship White.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Cement Grey",
+    "fullName": "703 Gloss Cement Grey",
+    "hexColor": "#525451",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/703 Gloss Cement Grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Sand Dune",
+    "fullName": "704 Gloss Sand Dune",
+    "hexColor": "#503603",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/704 Gloss Sand Dune.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Petrol Blue",
+    "fullName": "705 Gloss Petrol Blue",
+    "hexColor": "#1f323d",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/705 Gloss Petrol Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Shadow Green",
+    "fullName": "706 Gloss Shadow Green",
+    "hexColor": "#3e4443",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/706 Gloss Shadow Green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Misty Purple",
+    "fullName": "707 Gloss Misty Purple",
+    "hexColor": "#827f81",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/707 Gloss Misty Purple.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Provence Purple",
+    "fullName": "708 Gloss Metallic Provence Purple",
+    "hexColor": "#707072",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/708 Gloss Metallic Provence Purple.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "GT Silver",
+    "fullName": "709 Gloss GT Silver",
+    "hexColor": "#e9eaea",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/709 Gloss GT Silver.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Sage Green",
+    "fullName": "710 Gloss Metallic Sage Green",
+    "hexColor": "#a2a9aa",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/710 Gloss Metallic Sage Green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Liquid Metallic Dragon Blood Red",
+    "fullName": "711 Gloss Liquid Metallic Dragon Blood Red",
+    "hexColor": "#5a2b2f",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/711 Gloss Liquid Metallic Dragon Blood Red.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Royal Blue",
+    "fullName": "712 Gloss Metallic Royal Blue",
+    "hexColor": "#272d53",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/712 Gloss Metallic Royal Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Solar Flame",
+    "fullName": "713 Gloss Solar Flame",
+    "hexColor": "#c77768",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/713 Gloss Solar Flame.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Pearl Yellow",
+    "fullName": "714 Gloss Pearl Yellow",
+    "hexColor": "#a98802",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/714 Gloss Pearl Yellow.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Chameleon Vampire",
+    "fullName": "715 Gloss Chameleon Vampire",
+    "hexColor": "#1b1d20",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/715 Gloss Chameleon Vampire.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Iridescent Redstone Grey",
+    "fullName": "716 Gloss Iridescent Redstone Grey",
+    "hexColor": "#585557",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/716 Gloss Iridescent Redstone Grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Chameleon",
+    "fullName": "717 Gloss Chameleon",
+    "hexColor": "#1a2e25",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/717 Gloss Chameleon.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Midnight Purple",
+    "fullName": "801 Satin Midnight Purple",
+    "hexColor": "#242227",
+    "imageUrl": "/colors/Inozetek PPF/Satin/801 Satin Midnight Purple.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Rock grey",
+    "fullName": "802 Satin Rock grey",
+    "hexColor": "#6f7170",
+    "imageUrl": "/colors/Inozetek PPF/Satin/802 Satin Rock grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Silver Aluminum",
+    "fullName": "803 Satin Silver Aluminum",
+    "hexColor": "#959691",
+    "imageUrl": "/colors/Inozetek PPF/Satin/803 Satin Silver Aluminum.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "satin midnight moss",
+    "fullName": "804 satin midnight moss",
+    "hexColor": "#595e5a",
+    "imageUrl": "/colors/Inozetek PPF/Satin/804 satin midnight moss.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Liquid Metallic Star Silver",
+    "fullName": "805 Satin Liquid Metallic Star Silver",
+    "hexColor": "#bdc1c0",
+    "imageUrl": "/colors/Inozetek PPF/Satin/805 Satin Liquid Metallic Star Silver.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Liquid Metallic Blood Red",
+    "fullName": "806 Satin Liquid Metallic Blood Red",
+    "hexColor": "#491314",
+    "imageUrl": "/colors/Inozetek PPF/Satin/806 Satin Liquid Metallic Blood Red.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "satin white",
+    "fullName": "807 satin white",
+    "hexColor": "#ced0cf",
+    "imageUrl": "/colors/Inozetek PPF/Satin/807 satin white.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Liquid Metallic Silver",
+    "fullName": "808 Satin Liquid Metallic Silver",
+    "hexColor": "#969a9a",
+    "imageUrl": "/colors/Inozetek PPF/Satin/808 Satin Liquid Metallic Silver.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Frozen Matte Ultimate Grey",
+    "fullName": "809 Frozen Matte Ultimate Grey",
+    "hexColor": "#60686b",
+    "imageUrl": "/colors/Inozetek PPF/Matte/809 Frozen Matte Ultimate Grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Matte"
+  },
+  {
+    "name": "Liquid Metallic Tungsten Grey",
+    "fullName": "811 Satin Liquid Metallic Tungsten Grey",
+    "hexColor": "#636560",
+    "imageUrl": "/colors/Inozetek PPF/Satin/811 Satin Liquid Metallic Tungsten Grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "satin Khaki Green",
+    "fullName": "812 satin Khaki Green",
+    "hexColor": "#4e513e",
+    "imageUrl": "/colors/Inozetek PPF/Satin/812 satin Khaki Green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Liquid Metallic Titanium",
+    "fullName": "813 Satin Liquid Metallic Titanium",
+    "hexColor": "#706b58",
+    "imageUrl": "/colors/Inozetek PPF/Satin/813 Satin Liquid Metallic Titanium.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Liquid Azure Blue",
+    "fullName": "814 Satin Liquid Azure Blue",
+    "hexColor": "#06226e",
+    "imageUrl": "/colors/Inozetek PPF/Satin/814 Satin Liquid Azure Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Frozen Matte Sand",
+    "fullName": "815 Frozen Matte Sand",
+    "hexColor": "#766132",
+    "imageUrl": "/colors/Inozetek PPF/Matte/815 Frozen Matte Sand.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Matte"
+  },
+  {
+    "name": "Frozen Matte White",
+    "fullName": "816 Frozen Matte White",
+    "hexColor": "#a4a4a2",
+    "imageUrl": "/colors/Inozetek PPF/Matte/816 Frozen Matte White.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Matte"
+  },
+  {
+    "name": "Frozen Matte Liquid Metallic Titanium Green",
+    "fullName": "817 Frozen Matte Liquid Metallic Titanium Green",
+    "hexColor": "#676641",
+    "imageUrl": "/colors/Inozetek PPF/Matte/817 Frozen Matte Liquid Metallic Titanium Green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Matte"
+  },
+  {
+    "name": "Frozen Matte Shark Gray",
+    "fullName": "818 Frozen Matte Shark Gray",
+    "hexColor": "#464e3f",
+    "imageUrl": "/colors/Inozetek PPF/Matte/818 Frozen Matte Shark Gray.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Matte"
+  },
+  {
+    "name": "Frozen Matte Shark Grey",
+    "fullName": "818 Frozen Matte Shark Grey",
+    "hexColor": "#40423f",
+    "imageUrl": "/colors/Inozetek PPF/Matte/818 Frozen Matte Shark Grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Matte"
+  },
+  {
+    "name": "satin black out",
+    "fullName": "819 satin black out",
+    "hexColor": "#0b0e13",
+    "imageUrl": "/colors/Inozetek PPF/Satin/819 satin black out.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "Metallic Midnight Purple",
+    "fullName": "901 Metallic Midnight Purple",
+    "hexColor": "#2e2e43",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/901 Metallic Midnight Purple.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "metallic emerald green",
+    "fullName": "902 metallic emerald green",
+    "hexColor": "#3b5854",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/902 metallic emerald green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Moon White Pearl",
+    "fullName": "903 Moon White Pearl",
+    "hexColor": "#cbccc9",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/903 Moon White Pearl.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Dolphin Grey",
+    "fullName": "904 Metallic Dolphin Grey",
+    "hexColor": "#3c3e3a",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/904 Metallic Dolphin Grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Falcon Grey",
+    "fullName": "905 Falcon Grey",
+    "hexColor": "#3a3c3c",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/905 Falcon Grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Silica Brass",
+    "fullName": "906 Metallic Silica Brass",
+    "hexColor": "#42413c",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/906 Metallic Silica Brass.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Tungsten Grey",
+    "fullName": "907 Metallic Tungsten Grey",
+    "hexColor": "#202120",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/907 Metallic Tungsten Grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Perfect Black",
+    "fullName": "908 Metallic Perfect Black",
+    "hexColor": "#131517",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/908 Metallic Perfect Black.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Midnight Black",
+    "fullName": "909 Midnight Black",
+    "hexColor": "#0f1012",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/909 Midnight Black.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Carbon Fiber",
+    "fullName": "910 Gloss Carbon Fiber",
+    "hexColor": "#121517",
+    "imageUrl": "/colors/Inozetek PPF/Carbon Fiber/910 Gloss Carbon Fiber.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Carbon Fiber"
+  },
+  {
+    "name": "Sunflower Yellow",
+    "fullName": "911 Gloss Sunflower Yellow",
+    "hexColor": "#a07f00",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/911 Gloss Sunflower Yellow.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Silver Bullet",
+    "fullName": "912 Gloss Metallic Silver Bullet",
+    "hexColor": "#4b4b4a",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/912 Gloss Metallic Silver Bullet.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Coastal Blue",
+    "fullName": "913 Gloss Coastal Blue",
+    "hexColor": "#01304d",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/913 Gloss Coastal Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Blue Raspberry",
+    "fullName": "914 Gloss Metallic Blue Raspberry",
+    "hexColor": "#000107",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/914 Gloss Metallic Blue Raspberry.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Black Cherry",
+    "fullName": "915 Gloss Metallic Black Cherry",
+    "hexColor": "#010101",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/915 Gloss Metallic Black Cherry.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "GLOSS Ruby Star",
+    "fullName": "916 GLOSS Ruby Star",
+    "hexColor": "#2a0002",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/916 GLOSS Ruby Star.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Italia Red",
+    "fullName": "917 Gloss Italia Red",
+    "hexColor": "#530000",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/917 Gloss Italia Red.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Blush Pink",
+    "fullName": "918 Gloss Metallic Blush Pink",
+    "hexColor": "#68554f",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/918 Gloss Metallic Blush Pink.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Sand Dune",
+    "fullName": "919 Gloss Sand Dune",
+    "hexColor": "#533e0a",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/919 Gloss Sand Dune.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "GLOSS Champion White",
+    "fullName": "920 GLOSS Champion White",
+    "hexColor": "#a8aaa4",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/920 GLOSS Champion White.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Graphite Blue",
+    "fullName": "922 Gloss Metallic Graphite Blue",
+    "hexColor": "#000002",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/922 Gloss Metallic Graphite Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Pebble Blue",
+    "fullName": "923 Gloss Pebble Blue",
+    "hexColor": "#072235",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/923 Gloss Pebble Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "satin midnight black",
+    "fullName": "924 satin midnight black",
+    "hexColor": "#030406",
+    "imageUrl": "/colors/Inozetek PPF/Satin/924 satin midnight black.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Satin"
+  },
+  {
+    "name": "gloss black diamond blue",
+    "fullName": "925 gloss black diamond blue",
+    "hexColor": "#000002",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/925 gloss black diamond blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Liquid Metallic Charcoal",
+    "fullName": "926 Gloss Liquid Metallic Charcoal",
+    "hexColor": "#030200",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/926 Gloss Liquid Metallic Charcoal.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Blue Graphite Grey",
+    "fullName": "927 Gloss Blue Graphite Grey",
+    "hexColor": "#101d26",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/927 Gloss Blue Graphite Grey.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Bronze",
+    "fullName": "928 Gloss Metallic Bronze",
+    "hexColor": "#3b3015",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/928 Gloss Metallic Bronze.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Golden Green",
+    "fullName": "929 Gloss Metallic Golden Green",
+    "hexColor": "#212f07",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/929 Gloss Metallic Golden Green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Dark Emerald",
+    "fullName": "930 Gloss Metallic Dark Emerald",
+    "hexColor": "#000201",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/930 Gloss Metallic Dark Emerald.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Olive",
+    "fullName": "931 Gloss Metallic Olive",
+    "hexColor": "#061f02",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/931 Gloss Metallic Olive.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Khaki Green",
+    "fullName": "932 Gloss Khaki Green",
+    "hexColor": "#434834",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/932 Gloss Khaki Green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Army Green",
+    "fullName": "933 Gloss Army Green",
+    "hexColor": "#241b00",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/933 Gloss Army Green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Light Mint",
+    "fullName": "934 Gloss Light Mint",
+    "hexColor": "#658174",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/934 Gloss Light Mint.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Tiffany Blue",
+    "fullName": "935 Gloss Tiffany Blue",
+    "hexColor": "#3c8375",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/935 Gloss Tiffany Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Turquoise Blue",
+    "fullName": "936 Gloss Metallic Turquoise Blue",
+    "hexColor": "#26757e",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/936 Gloss Metallic Turquoise Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Frozen Blue",
+    "fullName": "937 Gloss Metallic Frozen Blue",
+    "hexColor": "#98adae",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/937 Gloss Metallic Frozen Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Gray Violet",
+    "fullName": "938 Gloss Gray Violet",
+    "hexColor": "#282b4a",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/938 Gloss Gray Violet.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Pearl Purple Galaxy",
+    "fullName": "939 Gloss Pearl Purple Galaxy",
+    "hexColor": "#818791",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/939 Gloss Pearl Purple Galaxy.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Hot Pink",
+    "fullName": "941 Gloss Hot Pink",
+    "hexColor": "#5a000a",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/941 Gloss Hot Pink.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "gloss dusty pink",
+    "fullName": "942 gloss dusty pink",
+    "hexColor": "#695e54",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/942 gloss dusty pink.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Frozen Berry",
+    "fullName": "943 Gloss Metallic Frozen Berry",
+    "hexColor": "#382b2a",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/943 Gloss Metallic Frozen Berry.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Soul Red",
+    "fullName": "944 Gloss Metallic Soul Red",
+    "hexColor": "#500000",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/944 Gloss Metallic Soul Red.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metallic Velvet Red",
+    "fullName": "945 Gloss Metallic Velvet Red",
+    "hexColor": "#6c3649",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/945 Gloss Metallic Velvet Red.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "9_11 Gloss Shadow Green",
+    "fullName": "9_11 Gloss Shadow Green",
+    "hexColor": "#151c1f",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/9_11 Gloss Shadow Green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "matte  Dry Carbon Fiber",
+    "fullName": "CF002 matte  Dry Carbon Fiber",
+    "hexColor": "#525655",
+    "imageUrl": "/colors/Inozetek PPF/Carbon Fiber/CF002 matte  Dry Carbon Fiber.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Carbon Fiber"
+  },
+  {
+    "name": "Copaze Blue",
+    "fullName": "CPZE101 Copaze Blue",
+    "hexColor": "#1a2326",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/CPZE101 Copaze Blue.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Drift HQ Java Green",
+    "fullName": "Q999 Drift HQ Java Green",
+    "hexColor": "#113801",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/Q999 Drift HQ Java Green.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Bunny One Purple Metallic",
+    "fullName": "RB101 Bunny One Purple Metallic",
+    "hexColor": "#140711",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/RB101 Bunny One Purple Metallic.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Sungset Orange",
+    "fullName": "SD102 Sungset Orange",
+    "hexColor": "#ad382b",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/SD102 Sungset Orange.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "TBC 101 - The Boring White(1)",
+    "fullName": "TBC 101 - The Boring White(1)",
+    "hexColor": "#8e8857",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/TBC 101 - The Boring White(1).jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "TBC 101 - The Boring White",
+    "fullName": "TBC 101 - The Boring White",
+    "hexColor": "#a39b6a",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/TBC 101 - The Boring White.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "UNI-101 Celestial Unicorn",
+    "fullName": "UNI-101 Celestial Unicorn",
+    "hexColor": "#0e0f23",
+    "imageUrl": "/colors/Inozetek PPF/Gloss/UNI-101 Celestial Unicorn.jpg",
+    "manufacturer": "Inozetek PPF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Mythos Red",
+    "fullName": "Absolute Matte Mythos Red",
+    "hexColor": "#31060b",
+    "imageUrl": "/colors/KPMF/Absolute Matte/Absolute Matte Mythos Red.jpg",
+    "manufacturer": "KPMF",
+    "category": "Absolute Matte"
+  },
+  {
+    "name": "Royal Amethyst",
+    "fullName": "Absolute Matte Royal Amethyst",
+    "hexColor": "#200a76",
+    "imageUrl": "/colors/KPMF/Absolute Matte/Absolute Matte Royal Amethyst.jpg",
+    "manufacturer": "KPMF",
+    "category": "Absolute Matte"
+  },
+  {
+    "name": "Absolute matte forest green",
+    "fullName": "Absolute matte forest green",
+    "hexColor": "#030b08",
+    "imageUrl": "/colors/KPMF/Absolute Matte/Absolute matte forest green.jpg",
+    "manufacturer": "KPMF",
+    "category": "Absolute Matte"
+  },
+  {
+    "name": "Absolute matte quantum blue",
+    "fullName": "Absolute matte quantum blue",
+    "hexColor": "#050f28",
+    "imageUrl": "/colors/KPMF/Absolute Matte/Absolute matte quantum blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Absolute Matte"
+  },
+  {
+    "name": "GLoss Metro Desert Storm",
+    "fullName": "GLoss Metro Desert Storm",
+    "hexColor": "#a49c82",
+    "imageUrl": "/colors/KPMF/Gloss/GLoss Metro Desert Storm.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "GLoss Metro Gloss Dynamic Teal",
+    "fullName": "GLoss Metro Gloss Dynamic Teal",
+    "hexColor": "#5196c0",
+    "imageUrl": "/colors/KPMF/Gloss/GLoss Metro Gloss Dynamic Teal.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "GLoss Metro Ultra Cast Combat Army Green",
+    "fullName": "GLoss Metro Ultra Cast Combat Army Green",
+    "hexColor": "#a3a59c",
+    "imageUrl": "/colors/KPMF/Gloss/GLoss Metro Ultra Cast Combat Army Green.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "GLoss Metro wet  Black Pearl",
+    "fullName": "GLoss Metro wet  Black Pearl",
+    "hexColor": "#919292",
+    "imageUrl": "/colors/KPMF/Gloss/GLoss Metro wet  Black Pearl.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Atlantic Pearl",
+    "fullName": "Gloss Atlantic Pearl",
+    "hexColor": "#0d428c",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Atlantic Pearl.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Blue Black Iridescent",
+    "fullName": "Gloss Blue Black Iridescent",
+    "hexColor": "#000007",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Blue Black Iridescent.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "British Racing Green",
+    "fullName": "Gloss British Racing Green",
+    "hexColor": "#0a1713",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss British Racing Green.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Copper Black Starlight",
+    "fullName": "Gloss Copper Black Starlight",
+    "hexColor": "#7e7779",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Copper Black Starlight.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Cosmos Pink",
+    "fullName": "Gloss Cosmos Pink",
+    "hexColor": "#b6487f",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Cosmos Pink.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Ember Orange",
+    "fullName": "Gloss Ember Orange",
+    "hexColor": "#901502",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Ember Orange.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Envious Green",
+    "fullName": "Gloss Envious Green",
+    "hexColor": "#278b54",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Envious Green.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Excelsior Blue",
+    "fullName": "Gloss Excelsior Blue",
+    "hexColor": "#132331",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Excelsior Blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Hypnotic Black Violet",
+    "fullName": "Gloss Hypnotic Black Violet",
+    "hexColor": "#7a798a",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Hypnotic Black Violet.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Imperial Orchid",
+    "fullName": "Gloss Imperial Orchid",
+    "hexColor": "#090048",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Imperial Orchid.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Indulgent Blue",
+    "fullName": "Gloss Indulgent Blue",
+    "hexColor": "#1652a7",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Indulgent Blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Magnetic Black",
+    "fullName": "Gloss Magnetic Black",
+    "hexColor": "#1f2832",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Magnetic Black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metro Blue Glauco",
+    "fullName": "Gloss Metro Blue Glauco",
+    "hexColor": "#427a92",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Metro Blue Glauco.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metro Ceramic Matrix Grey",
+    "fullName": "Gloss Metro Ceramic Matrix Grey",
+    "hexColor": "#979c9e",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Metro Ceramic Matrix Grey.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Metro Dynamic Lime",
+    "fullName": "Gloss Metro Dynamic Lime",
+    "hexColor": "#426600",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Metro Dynamic Lime.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Midnight Crimson Bloom",
+    "fullName": "Gloss Midnight Crimson Bloom",
+    "hexColor": "#181418",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Midnight Crimson Bloom.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Momentum Pink",
+    "fullName": "Gloss Momentum Pink",
+    "hexColor": "#6b0020",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Momentum Pink.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Morpheus Black",
+    "fullName": "Gloss Morpheus Black",
+    "hexColor": "#8d8f92",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Morpheus Black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Perfect Black",
+    "fullName": "Gloss Perfect Black",
+    "hexColor": "#0f1111",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Perfect Black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Perfect White",
+    "fullName": "Gloss Perfect White",
+    "hexColor": "#a0a29c",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Perfect White.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Phantom Black Metallic",
+    "fullName": "Gloss Phantom Black Metallic",
+    "hexColor": "#333636",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Phantom Black Metallic.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Porcelain Blue",
+    "fullName": "Gloss Porcelain Blue",
+    "hexColor": "#375c76",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Porcelain Blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Solar Flash",
+    "fullName": "Gloss Solar Flash",
+    "hexColor": "#837902",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Solar Flash.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Surge Green",
+    "fullName": "Gloss Surge Green",
+    "hexColor": "#75a718",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Surge Green.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Vengeance Red",
+    "fullName": "Gloss Vengeance Red",
+    "hexColor": "#6b020e",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Vengeance Red.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Verde Solaris",
+    "fullName": "Gloss Verde Solaris",
+    "hexColor": "#a49d66",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Verde Solaris.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Viola Noir",
+    "fullName": "Gloss Viola Noir",
+    "hexColor": "#290356",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Viola Noir.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Zenith Gray",
+    "fullName": "Gloss Zenith Gray",
+    "hexColor": "#201f1a",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss Zenith Gray.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "black",
+    "fullName": "Gloss black",
+    "hexColor": "#0e1013",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "chalk white",
+    "fullName": "Gloss chalk white",
+    "hexColor": "#60635d",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss chalk white.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "green black iridescent",
+    "fullName": "Gloss green black iridescent",
+    "hexColor": "#0b1210",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss green black iridescent.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "ominous grey",
+    "fullName": "Gloss ominous grey",
+    "hexColor": "#262b2d",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss ominous grey.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "opulent indigo",
+    "fullName": "Gloss opulent indigo",
+    "hexColor": "#091d61",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss opulent indigo.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "purple blue iridescent",
+    "fullName": "Gloss purple blue iridescent",
+    "hexColor": "#7ea6b9",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss purple blue iridescent.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "red black iridescent",
+    "fullName": "Gloss red black iridescent",
+    "hexColor": "#824f5d",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss red black iridescent.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "tidal teal",
+    "fullName": "Gloss tidal teal",
+    "hexColor": "#122b32",
+    "imageUrl": "/colors/KPMF/Gloss/Gloss tidal teal.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "Arctic Borealis",
+    "fullName": "Matte Arctic Borealis",
+    "hexColor": "#2f3826",
+    "imageUrl": "/colors/KPMF/Matte/Matte Arctic Borealis.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Aurora Pearl",
+    "fullName": "Matte Aurora Pearl",
+    "hexColor": "#b5c2b8",
+    "imageUrl": "/colors/KPMF/Matte/Matte Aurora Pearl.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Autumn Fire",
+    "fullName": "Matte Autumn Fire",
+    "hexColor": "#ad371f",
+    "imageUrl": "/colors/KPMF/Matte/Matte Autumn Fire.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Black",
+    "fullName": "Matte Black",
+    "hexColor": "#303437",
+    "imageUrl": "/colors/KPMF/Matte/Matte Black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Crystalline White",
+    "fullName": "Matte Crystalline White",
+    "hexColor": "#b8babc",
+    "imageUrl": "/colors/KPMF/Matte/Matte Crystalline White.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Dark Storm",
+    "fullName": "Matte Dark Storm",
+    "hexColor": "#34383b",
+    "imageUrl": "/colors/KPMF/Matte/Matte Dark Storm.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Dune Metallic",
+    "fullName": "Matte Dune Metallic",
+    "hexColor": "#605d4e",
+    "imageUrl": "/colors/KPMF/Matte/Matte Dune Metallic.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Frozen Mystic Pink",
+    "fullName": "Matte Frozen Mystic Pink",
+    "hexColor": "#333338",
+    "imageUrl": "/colors/KPMF/Matte/Matte Frozen Mystic Pink.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Frozen Ruby",
+    "fullName": "Matte Frozen Ruby",
+    "hexColor": "#323237",
+    "imageUrl": "/colors/KPMF/Matte/Matte Frozen Ruby.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Frozen Sapphire",
+    "fullName": "Matte Frozen Sapphire",
+    "hexColor": "#35383e",
+    "imageUrl": "/colors/KPMF/Matte/Matte Frozen Sapphire.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Frozen midnight purple",
+    "fullName": "Matte Frozen midnight purple",
+    "hexColor": "#363540",
+    "imageUrl": "/colors/KPMF/Matte/Matte Frozen midnight purple.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Gold Eclipse",
+    "fullName": "Matte Gold Eclipse",
+    "hexColor": "#6a5f19",
+    "imageUrl": "/colors/KPMF/Matte/Matte Gold Eclipse.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Iced Blue Titanium",
+    "fullName": "Matte Iced Blue Titanium",
+    "hexColor": "#053191",
+    "imageUrl": "/colors/KPMF/Matte/Matte Iced Blue Titanium.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Iced Green Titanium",
+    "fullName": "Matte Iced Green Titanium",
+    "hexColor": "#2b9a6e",
+    "imageUrl": "/colors/KPMF/Matte/Matte Iced Green Titanium.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Iced Orange Titanium",
+    "fullName": "Matte Iced Orange Titanium",
+    "hexColor": "#7d0301",
+    "imageUrl": "/colors/KPMF/Matte/Matte Iced Orange Titanium.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Iced Red Titanium",
+    "fullName": "Matte Iced Red Titanium",
+    "hexColor": "#580005",
+    "imageUrl": "/colors/KPMF/Matte/Matte Iced Red Titanium.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Iced Silver Titanium",
+    "fullName": "Matte Iced Silver Titanium",
+    "hexColor": "#71726d",
+    "imageUrl": "/colors/KPMF/Matte/Matte Iced Silver Titanium.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Iced Yellow Titanium",
+    "fullName": "Matte Iced Yellow Titanium",
+    "hexColor": "#beaa03",
+    "imageUrl": "/colors/KPMF/Matte/Matte Iced Yellow Titanium.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Java brown",
+    "fullName": "Matte Java brown",
+    "hexColor": "#5e5145",
+    "imageUrl": "/colors/KPMF/Matte/Matte Java brown.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Lightening",
+    "fullName": "Matte Lightening",
+    "hexColor": "#acb0b2",
+    "imageUrl": "/colors/KPMF/Matte/Matte Lightening.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Magnetic Black",
+    "fullName": "Matte Magnetic Black",
+    "hexColor": "#616b79",
+    "imageUrl": "/colors/KPMF/Matte/Matte Magnetic Black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Dynamic Lime",
+    "fullName": "Matte Metro Dynamic Lime",
+    "hexColor": "#88a303",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Dynamic Lime.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Dynamic Supernova",
+    "fullName": "Matte Metro Dynamic Supernova",
+    "hexColor": "#c4a302",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Dynamic Supernova.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Dynamic Turquoise",
+    "fullName": "Matte Metro Dynamic Turquoise",
+    "hexColor": "#3da1a7",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Dynamic Turquoise.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Lilac",
+    "fullName": "Matte Metro Lilac",
+    "hexColor": "#726ba1",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Lilac.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Military Green",
+    "fullName": "Matte Metro Military Green",
+    "hexColor": "#4a544a",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Military Green.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Rugrat Blue",
+    "fullName": "Matte Metro Rugrat Blue",
+    "hexColor": "#3e79ac",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Rugrat Blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Stealth Dynamic Teal",
+    "fullName": "Matte Metro Stealth Dynamic Teal",
+    "hexColor": "#0e618e",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Stealth Dynamic Teal.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Stealth Nero",
+    "fullName": "Matte Metro Stealth Nero",
+    "hexColor": "#343633",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Stealth Nero.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Stealth Piggy Bank",
+    "fullName": "Matte Metro Stealth Piggy Bank",
+    "hexColor": "#7c5d6c",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Stealth Piggy Bank.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Violaceous blue",
+    "fullName": "Matte Metro Violaceous blue",
+    "hexColor": "#1e2f70",
+    "imageUrl": "/colors/KPMF/Matte/Matte Metro Violaceous blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Morpheus Black",
+    "fullName": "Matte Morpheus Black",
+    "hexColor": "#4c4e52",
+    "imageUrl": "/colors/KPMF/Matte/Matte Morpheus Black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Pacific Blue White Starlight",
+    "fullName": "Matte Pacific Blue White Starlight",
+    "hexColor": "#c1c8c5",
+    "imageUrl": "/colors/KPMF/Matte/Matte Pacific Blue White Starlight.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Palladian Blue",
+    "fullName": "Matte Palladian Blue",
+    "hexColor": "#619da6",
+    "imageUrl": "/colors/KPMF/Matte/Matte Palladian Blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Perfect Black",
+    "fullName": "Matte Perfect Black",
+    "hexColor": "#393b3b",
+    "imageUrl": "/colors/KPMF/Matte/Matte Perfect Black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Perfect White",
+    "fullName": "Matte Perfect White",
+    "hexColor": "#b5b7b4",
+    "imageUrl": "/colors/KPMF/Matte/Matte Perfect White.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Phantom Black",
+    "fullName": "Matte Phantom Black",
+    "hexColor": "#3b3d3c",
+    "imageUrl": "/colors/KPMF/Matte/Matte Phantom Black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Pink White Starlight",
+    "fullName": "Matte Pink White Starlight",
+    "hexColor": "#c0bfbf",
+    "imageUrl": "/colors/KPMF/Matte/Matte Pink White Starlight.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Platinum Dark Sage",
+    "fullName": "Matte Platinum Dark Sage",
+    "hexColor": "#3b4b46",
+    "imageUrl": "/colors/KPMF/Matte/Matte Platinum Dark Sage.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Purple Black iridescent",
+    "fullName": "Matte Purple Black iridescent",
+    "hexColor": "#4b3868",
+    "imageUrl": "/colors/KPMF/Matte/Matte Purple Black iridescent.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Purple-blue iridescent",
+    "fullName": "Matte Purple-blue iridescent",
+    "hexColor": "#4d749a",
+    "imageUrl": "/colors/KPMF/Matte/Matte Purple-blue iridescent.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Siberian Pearl",
+    "fullName": "Matte Siberian Pearl",
+    "hexColor": "#cfd1d0",
+    "imageUrl": "/colors/KPMF/Matte/Matte Siberian Pearl.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Sonic Yellow Pearl",
+    "fullName": "Matte Sonic Yellow Pearl",
+    "hexColor": "#d0ab01",
+    "imageUrl": "/colors/KPMF/Matte/Matte Sonic Yellow Pearl.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Sterling Blue",
+    "fullName": "Matte Sterling Blue",
+    "hexColor": "#65707c",
+    "imageUrl": "/colors/KPMF/Matte/Matte Sterling Blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Tempest Blue",
+    "fullName": "Matte Tempest Blue",
+    "hexColor": "#23629b",
+    "imageUrl": "/colors/KPMF/Matte/Matte Tempest Blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Trenton Blue",
+    "fullName": "Matte Trenton Blue",
+    "hexColor": "#254b80",
+    "imageUrl": "/colors/KPMF/Matte/Matte Trenton Blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Viper Green",
+    "fullName": "Matte Viper Green",
+    "hexColor": "#a4b81b",
+    "imageUrl": "/colors/KPMF/Matte/Matte Viper Green.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "White",
+    "fullName": "Matte White",
+    "hexColor": "#b7b9b6",
+    "imageUrl": "/colors/KPMF/Matte/Matte White.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "anodized bronze",
+    "fullName": "Matte anodized bronze",
+    "hexColor": "#7a4a32",
+    "imageUrl": "/colors/KPMF/Matte/Matte anodized bronze.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "blue white pearlescent",
+    "fullName": "Matte blue white pearlescent",
+    "hexColor": "#b6bbbe",
+    "imageUrl": "/colors/KPMF/Matte/Matte blue white pearlescent.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "burnished bronze",
+    "fullName": "Matte burnished bronze",
+    "hexColor": "#6e5f5e",
+    "imageUrl": "/colors/KPMF/Matte/Matte burnished bronze.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "dark grey",
+    "fullName": "Matte dark grey",
+    "hexColor": "#475255",
+    "imageUrl": "/colors/KPMF/Matte/Matte dark grey.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "frozen emerald",
+    "fullName": "Matte frozen emerald",
+    "hexColor": "#181e1f",
+    "imageUrl": "/colors/KPMF/Matte/Matte frozen emerald.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "gold white starlight",
+    "fullName": "Matte gold white starlight",
+    "hexColor": "#b1b4ad",
+    "imageUrl": "/colors/KPMF/Matte/Matte gold white starlight.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "iced amber titanium",
+    "fullName": "Matte iced amber titanium",
+    "hexColor": "#af5302",
+    "imageUrl": "/colors/KPMF/Matte/Matte iced amber titanium.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "iced amethyst titanium",
+    "fullName": "Matte iced amethyst titanium",
+    "hexColor": "#401d95",
+    "imageUrl": "/colors/KPMF/Matte/Matte iced amethyst titanium.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "iced pink titanium",
+    "fullName": "Matte iced pink titanium",
+    "hexColor": "#901456",
+    "imageUrl": "/colors/KPMF/Matte/Matte iced pink titanium.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "russet red",
+    "fullName": "Matte russet red",
+    "hexColor": "#9b484b",
+    "imageUrl": "/colors/KPMF/Matte/Matte russet red.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "sinister blue",
+    "fullName": "Matte sinister blue",
+    "hexColor": "#44577a",
+    "imageUrl": "/colors/KPMF/Matte/Matte sinister blue.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "widowed red",
+    "fullName": "Matte widowed red",
+    "hexColor": "#4b2121",
+    "imageUrl": "/colors/KPMF/Matte/Matte widowed red.jpg",
+    "manufacturer": "KPMF",
+    "category": "Matte"
+  },
+  {
+    "name": "Metro Desert Storm",
+    "fullName": "Satin Metro Desert Storm",
+    "hexColor": "#998d63",
+    "imageUrl": "/colors/KPMF/Satin/Satin Metro Desert Storm.jpg",
+    "manufacturer": "KPMF",
+    "category": "Satin"
+  },
+  {
+    "name": "Metro Jargon Jade",
+    "fullName": "Satin Metro Jargon Jade",
+    "hexColor": "#53908c",
+    "imageUrl": "/colors/KPMF/Satin/Satin Metro Jargon Jade.jpg",
+    "manufacturer": "KPMF",
+    "category": "Satin"
+  },
+  {
+    "name": "Metro Nero",
+    "fullName": "Satin Metro Nero",
+    "hexColor": "#313235",
+    "imageUrl": "/colors/KPMF/Satin/Satin Metro Nero.jpg",
+    "manufacturer": "KPMF",
+    "category": "Satin"
+  },
+  {
+    "name": "Metro Rose Gold",
+    "fullName": "Satin Metro Rose Gold",
+    "hexColor": "#765242",
+    "imageUrl": "/colors/KPMF/Satin/Satin Metro Rose Gold.jpg",
+    "manufacturer": "KPMF",
+    "category": "Satin"
+  },
+  {
+    "name": "Metro Spearmint",
+    "fullName": "Satin Metro Spearmint",
+    "hexColor": "#729b8d",
+    "imageUrl": "/colors/KPMF/Satin/Satin Metro Spearmint.jpg",
+    "manufacturer": "KPMF",
+    "category": "Satin"
+  },
+  {
+    "name": "Metro Superior Lavender",
+    "fullName": "Satin Metro Superior Lavender",
+    "hexColor": "#8176aa",
+    "imageUrl": "/colors/KPMF/Satin/Satin Metro Superior Lavender.jpg",
+    "manufacturer": "KPMF",
+    "category": "Satin"
+  },
+  {
+    "name": "perfect black",
+    "fullName": "Satin perfect black",
+    "hexColor": "#222426",
+    "imageUrl": "/colors/KPMF/Satin/Satin perfect black.jpg",
+    "manufacturer": "KPMF",
+    "category": "Satin"
+  },
+  {
+    "name": "stealth tundra",
+    "fullName": "Satin stealth tundra",
+    "hexColor": "#554e35",
+    "imageUrl": "/colors/KPMF/Satin/Satin stealth tundra.jpg",
+    "manufacturer": "KPMF",
+    "category": "Satin"
+  },
+  {
+    "name": "White 2",
+    "fullName": "White 2",
+    "hexColor": "#eaebed",
+    "imageUrl": "/colors/KPMF/Gloss/White 2.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "White",
+    "fullName": "White",
+    "hexColor": "#bdc0c3",
+    "imageUrl": "/colors/KPMF/Gloss/White.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "White",
+    "fullName": "White",
+    "hexColor": "#eaebed",
+    "imageUrl": "/colors/KPMF/Gloss/White.jpg",
+    "manufacturer": "KPMF",
+    "category": "Gloss"
+  },
+  {
+    "name": "sunset shift",
+    "fullName": "100G sunset shift",
+    "hexColor": "#a5542d",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/100G sunset shift.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Sunset Shift",
+    "fullName": "100M Matte Sunset Shift",
+    "hexColor": "#ac5c45",
+    "imageUrl": "/colors/Orafol 970RA/Matte/100M Matte Sunset Shift.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Matte"
+  },
+  {
+    "name": "lightning strike",
+    "fullName": "123G lightning strike",
+    "hexColor": "#d1bb28",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/123G lightning strike.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Intergalactic Blue",
+    "fullName": "155G Intergalactic Blue",
+    "hexColor": "#51637f",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/155G Intergalactic Blue.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Riviera Rush",
+    "fullName": "171G Riviera Rush",
+    "hexColor": "#01a07d",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/171G Riviera Rush.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Turbo Turquoise",
+    "fullName": "172G Turbo Turquoise",
+    "hexColor": "#00b4c3",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/172G Turbo Turquoise.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Citrus Fury",
+    "fullName": "173G Citrus Fury",
+    "hexColor": "#93ab0e",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/173G Citrus Fury.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Sparkling Riviera Rush",
+    "fullName": "181G Sparkling Riviera Rush",
+    "hexColor": "#3ceebe",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/181G Sparkling Riviera Rush.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Sparkling Turbo Turquoise",
+    "fullName": "182G Sparkling Turbo Turquoise",
+    "hexColor": "#29e2e8",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/182G Sparkling Turbo Turquoise.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Sparkling Citrus Fury",
+    "fullName": "183G Sparkling Citrus Fury",
+    "hexColor": "#cde22a",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/183G Sparkling Citrus Fury.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Enchanted Violet",
+    "fullName": "185G Enchanted Violet",
+    "hexColor": "#2b00c3",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/185G Enchanted Violet.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "sparkling enchanted violet",
+    "fullName": "185G sparkling enchanted violet",
+    "hexColor": "#4406e2",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/185G sparkling enchanted violet.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Thunderous Blue Green",
+    "fullName": "851G Thunderous Blue Green",
+    "hexColor": "#0f2633",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/851G Thunderous Blue Green.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Black Galactic Gold",
+    "fullName": "905G Black Galactic Gold",
+    "hexColor": "#373c3d",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/905G Black Galactic Gold.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "matte black galactic gold",
+    "fullName": "905M matte black galactic gold",
+    "hexColor": "#5d5f62",
+    "imageUrl": "/colors/Orafol 970RA/Matte/905M matte black galactic gold.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Matte"
+  },
+  {
+    "name": "Crystal White",
+    "fullName": "945G Crystal White",
+    "hexColor": "#b5b9b4",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/945G Crystal White.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Tangerine Dream",
+    "fullName": "959G Tangerine Dream",
+    "hexColor": "#faaf71",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/959G Tangerine Dream.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Lucius lips",
+    "fullName": "961G Lucius lips",
+    "hexColor": "#d75159",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/961G Lucius lips.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "Jet Stream Blue",
+    "fullName": "963G Jet Stream Blue",
+    "hexColor": "#79a8cf",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/963G Jet Stream Blue.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  },
+  {
+    "name": "IMG_4347",
+    "fullName": "IMG_4347",
+    "hexColor": "#3cb492",
+    "imageUrl": "/colors/Orafol 970RA/Gloss/IMG_4347.jpg",
+    "manufacturer": "Orafol 970RA",
+    "category": "Gloss"
+  }
+]

@@ -1,0 +1,5 @@
+[phases.setup]
+nixPkgs = ["dejavu_fonts", "fontconfig"]
+
+[phases.install]
+cmds = ["npm install --legacy-peer-deps"]

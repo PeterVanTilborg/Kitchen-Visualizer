@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+server/public/
+.env
+.env.*
+!.env.example
+uploads/
+*.HEIC
+*.heic
+.local/
+replit.md
+replit.nix
+attached_assets/
