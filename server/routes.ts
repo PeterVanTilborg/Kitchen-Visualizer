@@ -5,7 +5,7 @@ import path from "path";
 import fs from "fs";
 import sharp from "sharp";
 import { GoogleGenAI } from "@google/genai";
-import { KITCHEN_SWATCHES } from "@shared/swatches";
+import { KITCHEN_SWATCHES, type SwatchMaterial } from "@shared/swatches";
 import * as storage from "./storage";
 import {
   insertWrapColorSchema,
@@ -344,6 +344,7 @@ Output the modified image maintaining photorealistic quality.`;
 async function generateKitchenWithGemini(
   kitchenPhotoPath: string,
   swatchPath: string,
+  material: SwatchMaterial,
 ): Promise<string> {
   if (!kitchenPhotoPath || !fs.existsSync(kitchenPhotoPath)) {
     throw new Error("Kitchen photo is required but was missing");
@@ -355,7 +356,16 @@ async function generateKitchenWithGemini(
   const kitchen = await normalizeImageForGemini(kitchenPhotoPath);
   const swatch = await normalizeImageForGemini(swatchPath);
 
-  const prompt = `Apply the wood grain texture and color from the reference swatch onto the cabinet doors and drawer fronts in the kitchen photo. Keep the countertops, backsplash, walls, floor, appliances, hardware and lighting exactly as they are. Match the grain direction naturally (vertical on doors). Photorealistic, same camera angle and lighting.
+  // Material-aware texture instruction, selected from the chosen swatch's
+  // material, followed by the common suffix shared by all materials.
+  const materialInstruction: Record<SwatchMaterial, string> = {
+    wood: "Apply the wood grain texture and color from the reference swatch onto the cabinet doors and drawer fronts in the kitchen photo. Match the wood grain direction naturally (vertical on doors).",
+    marble: "Apply the marble surface — its veining, pattern and color — from the reference swatch onto the cabinet doors and drawer fronts in the kitchen photo. Let the veining flow naturally and continuously across each door, never tiled or repeated.",
+    matte: "Apply the solid matte color and finish from the reference swatch onto the cabinet doors and drawer fronts in the kitchen photo. Keep the finish even, uniform and smooth, with no grain or pattern.",
+  };
+  const commonSuffix = "Keep the countertops, backsplash, walls, floor, appliances, hardware and lighting exactly as they are. Photorealistic, same camera angle and lighting.";
+
+  const prompt = `${materialInstruction[material]} ${commonSuffix}
 
 The first image is the kitchen photo. The second image is the finish/texture swatch.
 
@@ -1591,7 +1601,7 @@ export async function registerRoutes(
 
           // Render via Gemini — TWO mandatory images:
           //   parts[1] = the user's kitchen photo, parts[2] = the finish swatch.
-          rawImageUrl = await generateKitchenWithGemini(workingPath, swatchPath);
+          rawImageUrl = await generateKitchenWithGemini(workingPath, swatchPath, swatch.material);
         } finally {
           // Clean up uploaded file
           if (fs.existsSync(workingPath)) {
